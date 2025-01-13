@@ -72,7 +72,7 @@
     "@types/mocha": ">=9.1.0",
     "@types/node": "^18.0.0",
     "@types/resolve": "^1.17.1",
-    "@types/semver": "^6.0.2",
+    "@types/semver": "^7.5.8",
     "@types/sinon": "^9.0.8",
     "@types/uuid": "^8.3.1",
     "@types/ws": "^7.2.1",
@@ -133,15 +133,15 @@
     "picocolors": "^1.1.0",
     "raw-body": "^2.4.1",
     "resolve": "1.17.0",
-    "semver": "^6.3.0",
+    "semver": "^7.6.3",
     "solc": "0.8.26",
     "source-map-support": "^0.5.13",
     "stacktrace-parser": "^0.1.10",
     "tinyglobby": "^0.2.6",
     "tsort": "0.0.1",
-    "undici": "^5.14.0",
+    "undici": "^7.2.1",
     "uuid": "^8.3.2",
-    "ws": "^7.4.6"
+    "ws": "^8.17.1"
   },
   "peerDependencies": {
     "ts-node": "*",
